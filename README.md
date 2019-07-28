@@ -4,7 +4,7 @@
 
 Install with:
 ```
-npm --save dynamicjoe-js-footer
+npm install --save dynamicjoe-js-footer
 ```
 Add to project with the folowing code:
 ```javascript
