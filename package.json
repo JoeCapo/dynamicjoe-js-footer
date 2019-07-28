@@ -1,0 +1,26 @@
+{
+  "name": "dynamicjoe-js-footer",
+  "version": "0.1.0",
+  "description": "Module to allow for a dynamic footer to be generated for JS applications with name and year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeCapo/dynamicjoe-js-footer.git"
+  },
+  "keywords": [
+    "dynamic",
+    "footer"
+  ],
+  "author": "Joe <jrcaporiccio@gmail.com> (https://github.com/JoeCapo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeCapo/dynamicjoe-js-footer/issues"
+  },
+  "homepage": "https://github.com/JoeCapo/dynamicjoe-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
